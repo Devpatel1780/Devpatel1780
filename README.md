@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Devpatel
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning python automation and AI
+- 💞️ I’m looking to collaborate on anything
+- 📫 pateldev1780@gmail.com
